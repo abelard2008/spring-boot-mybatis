@@ -1,0 +1,8 @@
+project
+target
+target/*
+/*/project
+*.iml
+.idea
+.idea/*
+*~
