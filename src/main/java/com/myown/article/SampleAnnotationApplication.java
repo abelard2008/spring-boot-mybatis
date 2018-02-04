@@ -1,6 +1,6 @@
-package com.remote.taizhou.article;
+package com.myown.article;
 
-import com.remote.taizhou.article.mapper.CityMapper;
+import com.myown.article.mapper.CityMapper;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleAnnotationApplication implements CommandLineRunner{
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+       // System.out.println("hello world");
         SpringApplication.run(SampleAnnotationApplication.class, args);
     }
 

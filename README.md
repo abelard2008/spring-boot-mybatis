@@ -1,3 +1,6 @@
+first, use your own url, username and password of MySQL in
+java/main/resources/application.properties
+
 mvn clean package
 
 java -jar target/spring-boot-mybatis-1.0-SNAPSHOT.jar

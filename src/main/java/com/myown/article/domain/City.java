@@ -1,4 +1,4 @@
-package com.remote.taizhou.article.domain;
+package com.myown.article.domain;
 
 import java.io.Serializable;
 

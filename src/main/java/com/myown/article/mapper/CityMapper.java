@@ -1,9 +1,10 @@
-package com.remote.taizhou.article.mapper;
+package com.myown.article.mapper;
 
+import com.myown.article.domain.City;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
-import com.remote.taizhou.article.domain.City;
+
 /**
  * Created by abelard on 2/5/18.
  */
